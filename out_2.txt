@@ -1,0 +1,23 @@
+Enter the x-coordinate of the camera eyepoint:       2
+Enter the y-coordinate of the camera eyepoint:       1
+Enter the z-coordinate of the camera eyepoint:       2
+
+(     2,     1,     2)
+Enter the x-coordinate of camera look at point:      -1
+Enter the y-coordinate of camera look at point:       2
+Enter the z-coordinate of camera look at point:       3
+
+(    -1,     2,     3)
+Enter the x-coordinate of the camera up direction:       1
+Enter the y-coordinate of the camera up direction:       1
+Enter the z-coordinate of the camera up direction:       1
+
+(     1,     1,     1)
+
+
+u: 
+(     0/ 62,    44/ 62,   -44/ 62)
+v: 
+(     8/ 19,    12/ 19,    12/ 19)
+n: 
+(     3/  3,    -1/  3,    -1/  3)
